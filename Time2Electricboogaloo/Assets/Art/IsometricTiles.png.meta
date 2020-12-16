@@ -1,0 +1,3103 @@
+fileFormatVersion: 2
+guid: dd7fdfa6be89f0c429febe002637acd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3825195191872393465
+    second: IsometricTiles_0
+  - first:
+      213: -4881798905357168149
+    second: IsometricTiles_1
+  - first:
+      213: -2622928325560563201
+    second: IsometricTiles_2
+  - first:
+      213: -1754093065947579612
+    second: IsometricTiles_3
+  - first:
+      213: 2595951911939014388
+    second: IsometricTiles_4
+  - first:
+      213: -4711838808336260608
+    second: IsometricTiles_5
+  - first:
+      213: -6802329728265197983
+    second: IsometricTiles_6
+  - first:
+      213: 7933442189087464956
+    second: IsometricTiles_7
+  - first:
+      213: 3144003404021415562
+    second: IsometricTiles_8
+  - first:
+      213: -7705713698687605079
+    second: IsometricTiles_9
+  - first:
+      213: -7390879323151294479
+    second: IsometricTiles_10
+  - first:
+      213: -2949732888101736407
+    second: IsometricTiles_11
+  - first:
+      213: -7470224448828640259
+    second: IsometricTiles_12
+  - first:
+      213: -5477855708171770112
+    second: IsometricTiles_13
+  - first:
+      213: -4041207030322306219
+    second: IsometricTiles_14
+  - first:
+      213: 1792134646952467319
+    second: IsometricTiles_15
+  - first:
+      213: -6406671792948847320
+    second: IsometricTiles_16
+  - first:
+      213: -8304699036342042383
+    second: IsometricTiles_17
+  - first:
+      213: 8589193999884133788
+    second: IsometricTiles_18
+  - first:
+      213: -3842647904382001930
+    second: IsometricTiles_19
+  - first:
+      213: 3022003868228923564
+    second: IsometricTiles_20
+  - first:
+      213: 7750946243100352511
+    second: IsometricTiles_21
+  - first:
+      213: 5610532692111068358
+    second: IsometricTiles_22
+  - first:
+      213: 1388089767942472518
+    second: IsometricTiles_23
+  - first:
+      213: 6371541544598189362
+    second: IsometricTiles_24
+  - first:
+      213: -3329688295880024407
+    second: IsometricTiles_25
+  - first:
+      213: 3197555141283861452
+    second: IsometricTiles_26
+  - first:
+      213: 1353106333977834409
+    second: IsometricTiles_27
+  - first:
+      213: 7968510896775711281
+    second: IsometricTiles_28
+  - first:
+      213: -6441604510599688497
+    second: IsometricTiles_29
+  - first:
+      213: 1209539732123818249
+    second: IsometricTiles_30
+  - first:
+      213: -7718238758599188613
+    second: IsometricTiles_31
+  - first:
+      213: -2808288244031507659
+    second: IsometricTiles_32
+  - first:
+      213: 4631852855806638179
+    second: IsometricTiles_33
+  - first:
+      213: -7686340994760740642
+    second: IsometricTiles_34
+  - first:
+      213: -2018445797624446558
+    second: IsometricTiles_35
+  - first:
+      213: 5402726323925008596
+    second: IsometricTiles_36
+  - first:
+      213: -6624983856125709616
+    second: IsometricTiles_37
+  - first:
+      213: 6503750716489347956
+    second: IsometricTiles_38
+  - first:
+      213: -641674247251395404
+    second: IsometricTiles_39
+  - first:
+      213: -1780690724193501547
+    second: IsometricTiles_40
+  - first:
+      213: 2158829725411533077
+    second: IsometricTiles_41
+  - first:
+      213: 5845959325736664048
+    second: IsometricTiles_42
+  - first:
+      213: -1921184888351054263
+    second: IsometricTiles_43
+  - first:
+      213: 4843619291020686119
+    second: IsometricTiles_44
+  - first:
+      213: -6822810614384891339
+    second: IsometricTiles_45
+  - first:
+      213: -7470955659832972437
+    second: IsometricTiles_46
+  - first:
+      213: -3388669327902235405
+    second: IsometricTiles_47
+  - first:
+      213: 832743142115059117
+    second: IsometricTiles_48
+  - first:
+      213: -2984033417821060250
+    second: IsometricTiles_49
+  - first:
+      213: 6328355487975992796
+    second: IsometricTiles_50
+  - first:
+      213: -4688751381532742180
+    second: IsometricTiles_51
+  - first:
+      213: -362361655299160435
+    second: IsometricTiles_52
+  - first:
+      213: 8449372276882773241
+    second: IsometricTiles_53
+  - first:
+      213: 4665113519034131438
+    second: IsometricTiles_54
+  - first:
+      213: -2562986964860499174
+    second: IsometricTiles_55
+  - first:
+      213: -6184796118567980951
+    second: IsometricTiles_56
+  - first:
+      213: 1544473897381960186
+    second: IsometricTiles_57
+  - first:
+      213: -6573357769004281672
+    second: IsometricTiles_58
+  - first:
+      213: -1477564531141270032
+    second: IsometricTiles_59
+  - first:
+      213: 965409031360762705
+    second: IsometricTiles_60
+  - first:
+      213: -4732175412906134755
+    second: IsometricTiles_61
+  - first:
+      213: -8500570034237512094
+    second: IsometricTiles_62
+  - first:
+      213: -8298265452800340843
+    second: IsometricTiles_63
+  - first:
+      213: -2296703193801276692
+    second: IsometricTiles_64
+  - first:
+      213: 7766095905258832201
+    second: IsometricTiles_65
+  - first:
+      213: 2777944545830956269
+    second: IsometricTiles_66
+  - first:
+      213: 3312415371640404948
+    second: IsometricTiles_67
+  - first:
+      213: -8617253375373174726
+    second: IsometricTiles_68
+  - first:
+      213: 4760897054382309589
+    second: IsometricTiles_69
+  - first:
+      213: 268509693422340220
+    second: IsometricTiles_70
+  - first:
+      213: 6004378883298694577
+    second: IsometricTiles_71
+  - first:
+      213: -1079317272447379683
+    second: IsometricTiles_72
+  - first:
+      213: -4543167599629953294
+    second: IsometricTiles_73
+  - first:
+      213: 3470775765003539323
+    second: IsometricTiles_74
+  - first:
+      213: 8762974275041410523
+    second: IsometricTiles_75
+  - first:
+      213: -6513665204260120664
+    second: IsometricTiles_76
+  - first:
+      213: 4806923693744795861
+    second: IsometricTiles_77
+  - first:
+      213: 2112297850990170752
+    second: IsometricTiles_78
+  - first:
+      213: -2827709789168241422
+    second: IsometricTiles_79
+  - first:
+      213: -8287697889306548827
+    second: IsometricTiles_80
+  - first:
+      213: -430488680000158932
+    second: IsometricTiles_81
+  - first:
+      213: 1587330938642546808
+    second: IsometricTiles_82
+  - first:
+      213: 6599679589406889602
+    second: IsometricTiles_83
+  - first:
+      213: -2643164499309047878
+    second: IsometricTiles_84
+  - first:
+      213: -5135529703612546026
+    second: IsometricTiles_85
+  - first:
+      213: -1160989411259577811
+    second: IsometricTiles_86
+  - first:
+      213: -2544801304293592826
+    second: IsometricTiles_87
+  - first:
+      213: -1624112812851128109
+    second: IsometricTiles_88
+  - first:
+      213: -3050183202549333861
+    second: IsometricTiles_89
+  - first:
+      213: 4420298995651106622
+    second: IsometricTiles_90
+  - first:
+      213: -5217686116914129121
+    second: IsometricTiles_91
+  - first:
+      213: -26586970207592924
+    second: IsometricTiles_92
+  - first:
+      213: 8058895699796163934
+    second: IsometricTiles_93
+  - first:
+      213: -6417756361403486279
+    second: IsometricTiles_94
+  - first:
+      213: -2453016520325570188
+    second: IsometricTiles_95
+  - first:
+      213: 5490680027801209800
+    second: IsometricTiles_96
+  - first:
+      213: 1793189581702658146
+    second: IsometricTiles_97
+  - first:
+      213: -9216941608257207104
+    second: IsometricTiles_98
+  - first:
+      213: -3468835809832180032
+    second: IsometricTiles_99
+  - first:
+      213: 5965918558404807725
+    second: IsometricTiles_100
+  - first:
+      213: -763192433441578612
+    second: IsometricTiles_101
+  - first:
+      213: -1315413483050074924
+    second: IsometricTiles_102
+  - first:
+      213: 7319008326093252497
+    second: IsometricTiles_103
+  - first:
+      213: -882498401542368401
+    second: IsometricTiles_104
+  - first:
+      213: -4682843462679318203
+    second: IsometricTiles_105
+  - first:
+      213: -4548743394066329949
+    second: IsometricTiles_106
+  - first:
+      213: 686801799412938588
+    second: IsometricTiles_107
+  - first:
+      213: 4666843151622865785
+    second: IsometricTiles_108
+  - first:
+      213: -8854783483872269171
+    second: IsometricTiles_109
+  - first:
+      213: 3201480763112728825
+    second: IsometricTiles_110
+  - first:
+      213: -2528726446747294998
+    second: IsometricTiles_111
+  - first:
+      213: 416801266258298865
+    second: IsometricTiles_112
+  - first:
+      213: -1886922202402216118
+    second: IsometricTiles_113
+  - first:
+      213: 7824663864355472880
+    second: IsometricTiles_114
+  - first:
+      213: 4429592554605192824
+    second: IsometricTiles_115
+  - first:
+      213: 1619972289074873864
+    second: IsometricTiles_116
+  - first:
+      213: -7350147932876325717
+    second: IsometricTiles_117
+  - first:
+      213: 3072474560476030561
+    second: IsometricTiles_118
+  - first:
+      213: -2797826688190768087
+    second: IsometricTiles_119
+  - first:
+      213: 6370881362208144997
+    second: IsometricTiles_120
+  - first:
+      213: -1417140252457902017
+    second: IsometricTiles_121
+  - first:
+      213: -9205542152600705606
+    second: IsometricTiles_122
+  - first:
+      213: 8942381622606759793
+    second: IsometricTiles_123
+  - first:
+      213: -8972653974007529180
+    second: IsometricTiles_124
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IsometricTiles_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 498
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a09e60f30306f14895123308bd3f4b6
+      internalID: 3825195191872393465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 508
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e70f628debfc964191fd84c098e8edf
+      internalID: -4881798905357168149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 508
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfbdb1f0847d4b4282bb9f8047fa134
+      internalID: -2622928325560563201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 508
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114bb42fda9551d458b557c1dd6a13e7
+      internalID: -1754093065947579612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 508
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a6290e086e9f44e8645c6209c9b277
+      internalID: 2595951911939014388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 504
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e940dc3539660714e80ddbd77b33eb7a
+      internalID: -4711838808336260608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 508
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302c74df4507fc6419a449fd3ce07d8a
+      internalID: -6802329728265197983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_7
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 508
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21846e79eb06ca94f9dc4468e7defcb3
+      internalID: 7933442189087464956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 508
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c42276652a55f241999991b386485e7
+      internalID: 3144003404021415562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 504
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458527ca3f612b8418dbc88ffa947ca7
+      internalID: -7705713698687605079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 508
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31778e0e8c4655d4fae4605bdf869e10
+      internalID: -7390879323151294479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 508
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31d3475492d30d4b81a4d2537fc8987
+      internalID: -2949732888101736407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 508
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df66b0a9890c33045b157bf3df436633
+      internalID: -7470224448828640259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_13
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 508
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4998b90adad550147ae0c3c7d8c0c721
+      internalID: -5477855708171770112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 498
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f01c4d5c36b74469921ac6d1560851
+      internalID: -4041207030322306219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 498
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ffde59213f30a45bfa0ee027e82064
+      internalID: 1792134646952467319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 296
+        width: 162
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940fca6c45a656b4ba274ab962dd7972
+      internalID: -6406671792948847320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 454
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbd6cc1bc55cb041a22e30ab8b88b7b
+      internalID: -8304699036342042383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 454
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a566afd590ce1f0409f34a2063baf1ff
+      internalID: 8589193999884133788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 454
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6cd676680e16f4586983b1359b8037
+      internalID: -3842647904382001930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 454
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17685f264f87d84db178fdabab9c73a
+      internalID: 3022003868228923564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 454
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bf3a81f052e484cb7fc57496942c2e
+      internalID: 7750946243100352511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 454
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d479efebbac344fb677fa849a14181
+      internalID: 5610532692111068358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 454
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc7204cd7a31c746a5e7ed8c6e5ae09
+      internalID: 1388089767942472518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 430
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad71703f40ee9b4bb3473829acb7e96
+      internalID: 6371541544598189362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 430
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99941f87bce5eea4a8dc62268c0dfb64
+      internalID: -3329688295880024407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 430
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b35bda37257d24cafdccb8f12a7469
+      internalID: 3197555141283861452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 430
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ca8f1e7893e6f48ace8020d2d8f623
+      internalID: 1353106333977834409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_28
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 430
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3f3544653e8be48b05048500f4ca19
+      internalID: 7968510896775711281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 430
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee7cf1c97c0b154c9ffc330128e06cf
+      internalID: -6441604510599688497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 430
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea464e96b6bde7f48a54bc81591091d3
+      internalID: 1209539732123818249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 404
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdad3b6aa5f11d4d857e7f045ff7d1c
+      internalID: -7718238758599188613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 404
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde7b1b9151ac254493c173733c2c856
+      internalID: -2808288244031507659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 404
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c0e7b1e1182d445a4d7dbe5dd67e57
+      internalID: 4631852855806638179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 406
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab56dbed6bddeb34d90e0a59b877c25b
+      internalID: -7686340994760740642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 404
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27d31d075aa8a04b8bbd13eeb0f8a1e
+      internalID: -2018445797624446558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_36
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 404
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59ef52187c4da545bb2337e1b7735b1
+      internalID: 5402726323925008596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 404
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68343f30d98dd494e99a66ac655f87fe
+      internalID: -6624983856125709616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 404
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba80c9f1683d81e48ba9b28b368234d8
+      internalID: 6503750716489347956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 378
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9502b85af84e9b04e80935574d9ad9b8
+      internalID: -641674247251395404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 378
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e7752f1d23b0b4e9814709b46da21a
+      internalID: -1780690724193501547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 378
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b457928b2c2a7b142a5ced68e64cfdea
+      internalID: 2158829725411533077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 378
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c6e1573656f96479de6352b9f9bc0a
+      internalID: 5845959325736664048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 379
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91909e28944384348b93eada3af57e3b
+      internalID: -1921184888351054263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_44
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 378
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0554625350d4839448b29184e1dc94ec
+      internalID: 4843619291020686119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_45
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 378
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b903fa8e743d0d47a97f7184de32692
+      internalID: -6822810614384891339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_46
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 378
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799ac21724d60aa43bad3d64f0d265d6
+      internalID: -7470955659832972437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_47
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 346
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0be40a97b0802f46b45946a29db187d
+      internalID: -3388669327902235405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 345
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8bb0c580625be48af209f22509cc76
+      internalID: 832743142115059117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 349
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f143362fb7dbc324297d72fe2911c328
+      internalID: -2984033417821060250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_50
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 354
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa807cfe9324ab64d9fe9655738bc222
+      internalID: 6328355487975992796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 349
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c12f7a070907240b32111850fdcbff
+      internalID: -4688751381532742180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 349
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fe534545351e941add1175d1e58d69
+      internalID: -362361655299160435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_53
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 349
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e44022eec2be14d9b868c61ad6a1e7
+      internalID: 8449372276882773241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 257
+        width: 160
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2171a1ad449d8c40842ec8724f580a2
+      internalID: 4665113519034131438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_55
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 330
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6331a3ffd4e8d6488b6f3b425d4c95e
+      internalID: -2562986964860499174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_56
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 333
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdd661edbbf657408167e682489c2cf
+      internalID: -6184796118567980951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_57
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 333
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ee1c7530d88d546b7399c30c520086
+      internalID: 1544473897381960186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_58
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 333
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3789b7cd8659146bcc6ad1f0067574
+      internalID: -6573357769004281672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_59
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 318
+        width: 4
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd98d0fd0daddd54ea43d053b1157252
+      internalID: -1477564531141270032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_60
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 333
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42008d39f095484d872cb008cb27844
+      internalID: 965409031360762705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_61
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 321
+        width: 4
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a80bc66f9fa00a408e8e2ebc5fbbe35
+      internalID: -4732175412906134755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 318
+        width: 4
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d5d4fa01a78d444b99dcf78624907d
+      internalID: -8500570034237512094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_63
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 315
+        width: 4
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f941cbba314106547b0c081d688cd35b
+      internalID: -8298265452800340843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_64
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 306
+        width: 4
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3f9cdd73d2ec841a2b52f2380d19fe
+      internalID: -2296703193801276692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_65
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 324
+        width: 4
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8491d0860047e4c49abf5172ebc18356
+      internalID: 7766095905258832201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_66
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 315
+        width: 4
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c7531d916c63a4584aa569a879fab3
+      internalID: 2777944545830956269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_67
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 91
+        width: 196
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ec0c2e176b9bb4e803c770863952cc
+      internalID: 3312415371640404948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_68
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 196
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9293f2d0902de2540b56ebefcb1d6914
+      internalID: -8617253375373174726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_69
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 196
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fea0d8470f0d214ba83d0f2d45644d2
+      internalID: 4760897054382309589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_70
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78637c7b44e57d45a8ffde4050af152
+      internalID: 268509693422340220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_71
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1b7a3debf65004da2be2777fc03121
+      internalID: 6004378883298694577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_72
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 196
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d682136806f640d43b87a8e5adb17ca5
+      internalID: -1079317272447379683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 196
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c2472a64a74984ca4c4c7990d8ee0d
+      internalID: -4543167599629953294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_74
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 195
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7206fc5339f5a44ba388b0a5e648c6e
+      internalID: 3470775765003539323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_75
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417283ea3c5de8946aff8b3ed4043804
+      internalID: 8762974275041410523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_76
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 196
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ad7976e6a47824a82b644ea406fdf9
+      internalID: -6513665204260120664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_77
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 196
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70442582695dd3145998699d2da0deef
+      internalID: 4806923693744795861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_78
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d5938c242192143861701e757c3414
+      internalID: 2112297850990170752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_79
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 196
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b152c77fb77db74fb1590eca3e3fb59
+      internalID: -2827709789168241422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_80
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 196
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac5d266a38937a488894d3fa10eed2a
+      internalID: -8287697889306548827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_81
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec3e6dadd1b6114892d8c4b8dcd32e0
+      internalID: -430488680000158932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_82
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ce69dd8072f5647ae2caa8f3917353
+      internalID: 1587330938642546808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_83
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 196
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c273024494ade4ebe33dc6c6fc33fe
+      internalID: 6599679589406889602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_84
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6be80b9a6f89545a72e207b788a4b8
+      internalID: -2643164499309047878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_85
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 192
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ce631c240f7a04484cf67730265cfa
+      internalID: -5135529703612546026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_86
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 196
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042f934bb7b6d3a4d99c7d998640a2b5
+      internalID: -1160989411259577811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_87
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 196
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01d2ab02087ccb4e81b4a5523563880
+      internalID: -2544801304293592826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_88
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 196
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302acbca8c370c74ebd53e3cda3e03a0
+      internalID: -1624112812851128109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_89
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 177
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6c446547ce66043ae1948b0f910cd3
+      internalID: -3050183202549333861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_90
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 177
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc8559a17c93cf4eaf4f98df3b132d6
+      internalID: 4420298995651106622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_91
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6757df72282447e48b930b299628f691
+      internalID: -5217686116914129121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_92
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be523e8850b0794592ada00f3bd1a88
+      internalID: -26586970207592924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_93
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3374b865e060b42833acc4da651c7f
+      internalID: 8058895699796163934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_94
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e7221e079093044ad19cc4edc56387
+      internalID: -6417756361403486279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_95
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 177
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce156bbd2b3e4340b65b09e9886555b
+      internalID: -2453016520325570188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_96
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f31dec0114bd04a90efcf420f126a6
+      internalID: 5490680027801209800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_97
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 177
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f063afa177f984296fcfda349a4dc0
+      internalID: 1793189581702658146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_98
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 177
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020cb26cc4ac74b44b2ca655fd309fb1
+      internalID: -9216941608257207104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_99
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d635a95929bceb741a086d6a1c73840a
+      internalID: -3468835809832180032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_100
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 177
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7f7c81002dbe54ba6ca6f06c398d91
+      internalID: 5965918558404807725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_101
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44056e56cb54be348a4bf34311db4058
+      internalID: -763192433441578612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_102
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 177
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c529064fb8eff6545b96f80b1d0e8e06
+      internalID: -1315413483050074924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_103
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 177
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7155ed9787107fd4697a2670fde7f39a
+      internalID: 7319008326093252497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_104
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f137dc9fa4dce4f980b80a32855807
+      internalID: -882498401542368401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_105
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e41112cac751de47961e631093c96fb
+      internalID: -4682843462679318203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_106
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 154
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874307057b5e198428637b704254e4e3
+      internalID: -4548743394066329949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_107
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 157
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefbcba61f415b242b6701836e4dc647
+      internalID: 686801799412938588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_108
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 157
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be557b5c4d0a9443a236a3739316ec9
+      internalID: 4666843151622865785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_109
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 157
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab556032d25b7a40b351107106a5d40
+      internalID: -8854783483872269171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_110
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 153
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e069c721bae604cbcda9c6bb7364b1
+      internalID: 3201480763112728825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_111
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 157
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292a2e364521a3a4f981432fdc058165
+      internalID: -2528726446747294998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_112
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 157
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72d3ec606d25c24b8fc9459005736a2
+      internalID: 416801266258298865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_113
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 157
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa0d79c985958a4ba4bbe97270a0e1e
+      internalID: -1886922202402216118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_114
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 157
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59c7f0e62d0f4d4e9029a5bee0375e0
+      internalID: 7824663864355472880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_115
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 157
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ba62b3898abe74584be8a869b9178f
+      internalID: 4429592554605192824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_116
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 157
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739f515ed62b1524992c0f0a3fd488ec
+      internalID: 1619972289074873864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_117
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 70
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a9de92489f3bd488fedbeefc5c3f46
+      internalID: -7350147932876325717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_118
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 70
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f5328ccf51948429782988392219ec
+      internalID: 3072474560476030561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_119
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 70
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5fc9ab4a2648e448c8ca762bc56108
+      internalID: -2797826688190768087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_120
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a7266a8aa8e864abb58c7f7042c5e6
+      internalID: 6370881362208144997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_121
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 70
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2399ac226ab1f846b1c48aa84cd9716
+      internalID: -1417140252457902017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_122
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b15869403d47c4b839182bb114c54a
+      internalID: -9205542152600705606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_123
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 66
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39015ca34f07af489399801107b879e
+      internalID: 8942381622606759793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IsometricTiles_124
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 70
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da48f1922bc31384d867202abaf257c7
+      internalID: -8972653974007529180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
